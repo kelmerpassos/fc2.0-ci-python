@@ -4,7 +4,7 @@ import unittest
 class TestMath(unittest.TestCase):
 
     def test_math(self):
-        self.assertEqual(soma(10, 10), 20)
+        self.assertEqual(soma(10, 10), 21)
     
 
 if __name__ == '__main__':
